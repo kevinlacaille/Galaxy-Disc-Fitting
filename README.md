@@ -8,4 +8,4 @@ In general, these scripts:
 - help visualize the differences between each model with multi-panel figures
 - provide position-velocity (PV) diagrams and compare these real data to the modelled discs.
 
-The code is specified for my data set, but may easily be changed for any set of extragalactic resolved or semi-resolved galaxies.
+The code is specified for my data set, but may easily be changed for any set of extragalactic resolved or semi-resolved galaxies!
